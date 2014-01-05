@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Sun 05 Jan 2014 12:53:02 PM CET
+
+BeginCmp
+TimeStamp = /52ADE39E;
+Reference = C1;
+ValeurCmp = CP1;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AE322E;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AE3236;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADDDDE;
+Reference = IC1;
+ValeurCmp = ATMEGA32U4;
+IdModule  = QFN44_0.5mmPitch_7x7mm_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADE084;
+Reference = LED1;
+ValeurCmp = MADW__WS2812B;
+IdModule  = PLCC4-5050RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADE07A;
+Reference = LED2;
+ValeurCmp = MADW__WS2812B;
+IdModule  = PLCC4-5050RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADE06F;
+Reference = LED3;
+ValeurCmp = MADW__WS2812B;
+IdModule  = PLCC4-5050RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADE0A3;
+Reference = LED4;
+ValeurCmp = MADW__WS2812B;
+IdModule  = PLCC4-5050RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADE1EA;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADE299;
+Reference = R1;
+ValeurCmp = 22R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADE2A8;
+Reference = R2;
+ValeurCmp = 22R;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADE939;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AEEF43;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADDBC0;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Switch_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52ADDCB8;
+Reference = U1;
+ValeurCmp = MICRO-B_USB;
+IdModule  = CONN_USB_microAB_ZX62-AB-5PA-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /52AE31CB;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = Crystal_6x3.3mm_ABM7;
+EndCmp
+
+EndListe
