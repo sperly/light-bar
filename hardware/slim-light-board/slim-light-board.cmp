@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Sat 18 Jan 2014 10:21:07 AM CET
+
+BeginCmp
+TimeStamp = /52DA4528;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA4538;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA44C5;
+Reference = LED1;
+ValeurCmp = MADW__WS2812B;
+IdModule  = WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA44CA;
+Reference = LED2;
+ValeurCmp = MADW__WS2812B;
+IdModule  = WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA44CF;
+Reference = LED3;
+ValeurCmp = MADW__WS2812B;
+IdModule  = WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA44D3;
+Reference = LED4;
+ValeurCmp = MADW__WS2812B;
+IdModule  = WS2812B;
+EndCmp
+
+EndListe

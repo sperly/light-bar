@@ -1,0 +1,38 @@
+# EESchema Netlist Version 1.1 created  Sat 18 Jan 2014 10:21:07 AM CET
+(
+ ( /52DA4528 PIN_ARRAY_3X1 K1 CONN_3
+  ( 1 VCC )
+  ( 2 N-000007 )
+  ( 3 GND )
+ )
+ ( /52DA4538 PIN_ARRAY_3X1 K2 CONN_3
+  ( 1 VCC )
+  ( 2 N-000004 )
+  ( 3 GND )
+ )
+ ( /52DA44C5 WS2812B LED1 MADW__WS2812B
+  ( 1 VCC )
+  ( 2 N-000005 )
+  ( 3 GND )
+  ( 4 N-000007 )
+ )
+ ( /52DA44CA WS2812B LED2 MADW__WS2812B
+  ( 1 VCC )
+  ( 2 N-000006 )
+  ( 3 GND )
+  ( 4 N-000005 )
+ )
+ ( /52DA44CF WS2812B LED3 MADW__WS2812B
+  ( 1 VCC )
+  ( 2 N-000003 )
+  ( 3 GND )
+  ( 4 N-000006 )
+ )
+ ( /52DA44D3 WS2812B LED4 MADW__WS2812B
+  ( 1 VCC )
+  ( 2 N-000004 )
+  ( 3 GND )
+  ( 4 N-000003 )
+ )
+)
+*

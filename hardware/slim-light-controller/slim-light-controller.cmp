@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Mon 20 Jan 2014 12:16:16 AM CET
+
+BeginCmp
+TimeStamp = /52DA8137;
+Reference = C1;
+ValeurCmp = 100uF;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA8528;
+Reference = C2;
+ValeurCmp = 18pF;
+IdModule  = SM0805_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA8531;
+Reference = C3;
+ValeurCmp = 18pF;
+IdModule  = SM0805_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA838B;
+Reference = D1;
+ValeurCmp = 3.6V;
+IdModule  = SOD-323;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA8398;
+Reference = D2;
+ValeurCmp = 3.6V;
+IdModule  = SOD-323;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DBDC6F;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = SM0805_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA80F1;
+Reference = K1;
+ValeurCmp = USBCONN;
+IdModule  = CONN_USB_microAB_ZX62-AB-5PA-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA86A5;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA8590;
+Reference = K3;
+ValeurCmp = AVR-ISP-6;
+IdModule  = AVR-ISP-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DBDD15;
+Reference = K4;
+ValeurCmp = CONN_2;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA8119;
+Reference = R1;
+ValeurCmp = 68R;
+IdModule  = SM0805_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA811E;
+Reference = R2;
+ValeurCmp = 68R;
+IdModule  = SM0805_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DBDCDC;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = SM0805_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DBDC45;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = SM0805_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DC5A93;
+Reference = R5;
+ValeurCmp = 1k5;
+IdModule  = SM0805_Opendous;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA8055;
+Reference = U1;
+ValeurCmp = ATTINY84-SS;
+IdModule  = SO14E;
+EndCmp
+
+BeginCmp
+TimeStamp = /52DA8502;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = Crystal_5x3.2mm;
+EndCmp
+
+EndListe

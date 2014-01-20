@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Sun 05 Jan 2014 12:53:02 PM CET
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Sat 18 Jan 2014 07:14:51 PM CET
 
 BeginCmp
 TimeStamp = /52ADE39E;
@@ -22,6 +22,13 @@ IdModule  = SM0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /52D900AF;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
 TimeStamp = /52ADDDDE;
 Reference = IC1;
 ValeurCmp = ATMEGA32U4;
@@ -32,28 +39,28 @@ BeginCmp
 TimeStamp = /52ADE084;
 Reference = LED1;
 ValeurCmp = MADW__WS2812B;
-IdModule  = PLCC4-5050RGB;
+IdModule  = WS2812B;
 EndCmp
 
 BeginCmp
 TimeStamp = /52ADE07A;
 Reference = LED2;
 ValeurCmp = MADW__WS2812B;
-IdModule  = PLCC4-5050RGB;
+IdModule  = WS2812B;
 EndCmp
 
 BeginCmp
 TimeStamp = /52ADE06F;
 Reference = LED3;
 ValeurCmp = MADW__WS2812B;
-IdModule  = PLCC4-5050RGB;
+IdModule  = WS2812B;
 EndCmp
 
 BeginCmp
 TimeStamp = /52ADE0A3;
 Reference = LED4;
 ValeurCmp = MADW__WS2812B;
-IdModule  = PLCC4-5050RGB;
+IdModule  = WS2812B;
 EndCmp
 
 BeginCmp

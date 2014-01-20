@@ -1,0 +1,163 @@
+# EESchema Netlist Version 1.1 created  Mon 20 Jan 2014 12:16:16 AM CET
+(
+ ( /52DA8137 SM1206POL C1 100uF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /52DA8528 SM0805_Opendous C2 18pF
+  ( 1 N-000010 )
+  ( 2 GND )
+ )
+ ( /52DA8531 SM0805_Opendous C3 18pF
+  ( 1 N-000007 )
+  ( 2 GND )
+ )
+ ( /52DA838B SOD-323 D1 3.6V
+  ( 1 GND )
+  ( 2 N-000014 )
+ )
+ ( /52DA8398 SOD-323 D2 3.6V
+  ( 1 GND )
+  ( 2 N-000015 )
+ )
+ ( /52DBDC6F SM0805_Opendous D3 LED
+  ( 1 N-000006 )
+  ( 2 GND )
+ )
+ ( /52DA80F1 CONN_USB_microAB_ZX62-AB-5PA-11 K1 USBCONN
+  ( 1 VCC )
+  ( 2 N-000014 )
+  ( 3 N-000015 )
+  ( 4 GND )
+  ( 5 GND )
+ )
+ ( /52DA86A5 PIN_ARRAY_3X1 K2 CONN_3
+  ( 1 GND )
+  ( 2 SOUT )
+  ( 3 VCC )
+ )
+ ( /52DA8590 AVR-ISP-6 K3 AVR-ISP-6
+  ( 1 MISO )
+  ( 2 VCC )
+  ( 3 SCK )
+  ( 4 MOSI )
+  ( 5 RST )
+  ( 6 GND )
+ )
+ ( /52DBDD15 PIN_ARRAY_2X1 K4 CONN_2
+  ( 1 GND )
+  ( 2 N-000016 )
+ )
+ ( /52DA8119 SM0805_Opendous R1 68R
+  ( 1 N-000013 )
+  ( 2 N-000015 )
+ )
+ ( /52DA811E SM0805_Opendous R2 68R
+  ( 1 N-000012 )
+  ( 2 N-000014 )
+ )
+ ( /52DBDCDC SM0805_Opendous R3 10k
+  ( 1 N-000016 )
+  ( 2 VCC )
+ )
+ ( /52DBDC45 SM0805_Opendous R4 10k
+  ( 1 N-000011 )
+  ( 2 N-000006 )
+ )
+ ( /52DC5A93 SM0805_Opendous R5 1k5
+  ( 1 N-000014 )
+  ( 2 VCC )
+ )
+ ( /52DA8055 SO14E U1 ATTINY84-SS
+  ( 1 VCC )
+  ( 2 N-000007 )
+  ( 3 N-000010 )
+  ( 4 RST )
+  ( 5 N-000013 )
+  ( 6 SOUT )
+  ( 7 MOSI )
+  ( 8 MISO )
+  ( 9 SCK )
+  ( 10 N-000011 )
+  ( 11 N-000016 )
+  ( 12 N-000012 )
+  ( 13 N-000013 )
+  ( 14 GND )
+ )
+ ( /52DA8502 Crystal_5x3.2mm X1 16MHz
+  ( 1 N-000010 )
+  ( 2 N-000007 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ CP*
+ SM*
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ SO*
+ SM*
+$endlist
+$component D2
+ D?
+ SO*
+ SM*
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
