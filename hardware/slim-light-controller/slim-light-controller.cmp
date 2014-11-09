@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Mon 20 Jan 2014 12:16:16 AM CET
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Sun 09 Nov 2014 08:49:58 PM UTC
 
 BeginCmp
 TimeStamp = /52DA8137;
@@ -11,14 +11,14 @@ BeginCmp
 TimeStamp = /52DA8528;
 Reference = C2;
 ValeurCmp = 18pF;
-IdModule  = SM0805_Opendous;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DA8531;
 Reference = C3;
 ValeurCmp = 18pF;
-IdModule  = SM0805_Opendous;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
@@ -39,7 +39,7 @@ BeginCmp
 TimeStamp = /52DBDC6F;
 Reference = D3;
 ValeurCmp = LED;
-IdModule  = SM0805_Opendous;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
@@ -60,7 +60,7 @@ BeginCmp
 TimeStamp = /52DA8590;
 Reference = K3;
 ValeurCmp = AVR-ISP-6;
-IdModule  = AVR-ISP-6;
+IdModule  = pin_array_3x2;
 EndCmp
 
 BeginCmp
@@ -74,35 +74,35 @@ BeginCmp
 TimeStamp = /52DA8119;
 Reference = R1;
 ValeurCmp = 68R;
-IdModule  = SM0805_Opendous;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DA811E;
 Reference = R2;
 ValeurCmp = 68R;
-IdModule  = SM0805_Opendous;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DBDCDC;
 Reference = R3;
 ValeurCmp = 10k;
-IdModule  = SM0805_Opendous;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DBDC45;
 Reference = R4;
 ValeurCmp = 10k;
-IdModule  = SM0805_Opendous;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52DC5A93;
 Reference = R5;
 ValeurCmp = 1k5;
-IdModule  = SM0805_Opendous;
+IdModule  = SM0805;
 EndCmp
 
 BeginCmp

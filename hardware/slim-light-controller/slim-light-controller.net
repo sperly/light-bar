@@ -1,14 +1,14 @@
-# EESchema Netlist Version 1.1 created  Mon 20 Jan 2014 12:16:16 AM CET
+# EESchema Netlist Version 1.1 created  Sun 09 Nov 2014 08:49:58 PM UTC
 (
  ( /52DA8137 SM1206POL C1 100uF
   ( 1 VCC )
   ( 2 GND )
  )
- ( /52DA8528 SM0805_Opendous C2 18pF
+ ( /52DA8528 SM0805 C2 18pF
   ( 1 N-000010 )
   ( 2 GND )
  )
- ( /52DA8531 SM0805_Opendous C3 18pF
+ ( /52DA8531 SM0805 C3 18pF
   ( 1 N-000007 )
   ( 2 GND )
  )
@@ -20,7 +20,7 @@
   ( 1 GND )
   ( 2 N-000015 )
  )
- ( /52DBDC6F SM0805_Opendous D3 LED
+ ( /52DBDC6F SM0805 D3 LED
   ( 1 N-000006 )
   ( 2 GND )
  )
@@ -36,7 +36,7 @@
   ( 2 SOUT )
   ( 3 VCC )
  )
- ( /52DA8590 AVR-ISP-6 K3 AVR-ISP-6
+ ( /52DA8590 pin_array_3x2 K3 AVR-ISP-6
   ( 1 MISO )
   ( 2 VCC )
   ( 3 SCK )
@@ -48,23 +48,23 @@
   ( 1 GND )
   ( 2 N-000016 )
  )
- ( /52DA8119 SM0805_Opendous R1 68R
+ ( /52DA8119 SM0805 R1 68R
   ( 1 N-000013 )
   ( 2 N-000015 )
  )
- ( /52DA811E SM0805_Opendous R2 68R
+ ( /52DA811E SM0805 R2 68R
   ( 1 N-000012 )
   ( 2 N-000014 )
  )
- ( /52DBDCDC SM0805_Opendous R3 10k
+ ( /52DBDCDC SM0805 R3 10k
   ( 1 N-000016 )
   ( 2 VCC )
  )
- ( /52DBDC45 SM0805_Opendous R4 10k
+ ( /52DBDC45 SM0805 R4 10k
   ( 1 N-000011 )
   ( 2 N-000006 )
  )
- ( /52DC5A93 SM0805_Opendous R5 1k5
+ ( /52DC5A93 SM0805 R5 1k5
   ( 1 N-000014 )
   ( 2 VCC )
  )
